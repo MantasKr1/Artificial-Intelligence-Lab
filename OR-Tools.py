@@ -1,6 +1,6 @@
 ﻿# or_tools_optimization.py
 # Data: 2025-02-20
-# Autorius: Mantas Kryževičius
+# Autorius: Mantas Kryževičius ir Agnė Bučytė
 
 from ortools.linear_solver import pywraplp
 
