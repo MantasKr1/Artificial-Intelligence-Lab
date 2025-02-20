@@ -1,6 +1,6 @@
 ﻿# maze_solver.py
 # Data: 2025-02-20
-# Autorius: Mantas Kryževičius
+# Autorius: Mantas Kryževičius ir Agnė Bučytė
 
 from search import Problem, astar_search
 import matplotlib.pyplot as plt
